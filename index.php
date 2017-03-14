@@ -1,3 +1,4 @@
 <?php
-  echo "hello";
+  $a = "hello";
+  echo $a;
 ?>
